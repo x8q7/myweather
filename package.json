@@ -1,0 +1,25 @@
+{
+  "name": "myweather",
+  "description": "code myself",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x8q7/myweather.git"
+  },
+  "author": "x8q7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x8q7/myweather/issues"
+  },
+  "homepage": "https://github.com/x8q7/myweather#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
